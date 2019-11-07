@@ -8,5 +8,5 @@
 ```
 
 
+<iframe src="https://github.com/saugatapaul1010/Classification-pipeline-for-transfer-learning/blob/master/data_df/train.csv"></iframe>
 
-<img src="https://github.com/saugatapaul1010/Classification-pipeline-for-transfer-learning/blob/master/data_df/train.csv">
